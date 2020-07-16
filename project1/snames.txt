@@ -1,0 +1,22 @@
+Names sorted by length:
+5)Danielle
+1)Victor
+3)Juliet
+4)Hector
+10)Dannae
+6)Romeo
+7)Oscar
+8)June
+9)Ares
+2)Eve
+Names sorted alphabetically:
+9)Ares
+5)Danielle
+10)Dannae
+2)Eve
+4)Hector
+3)Juliet
+8)June
+7)Oscar
+6)Romeo
+1)Victor
